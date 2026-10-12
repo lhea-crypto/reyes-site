@@ -1,0 +1,7 @@
+alder-lane-website/
+├── index.html
+├── blog.html
+└── photos/
+    ├── front.jpg
+    ├── kitchen.jpg
+    └── backyard.jpg
